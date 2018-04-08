@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"rajini",
+    "email":"rajini169f1a0546@gmail.com",
+    "image":"images/profile.png",
+    "mobile":"988989889"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.Tech",
+      "institute":"svit,anantapur",
+      "data":["2016-2020","75%"]
+    },
+    {
+      "degree":"intermediate",
+      "institute":"nalanda",
+      "data":["2015-2016","87%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"ZPHS",
+      "data":["2014-2015","88%"]
+    }
+  ],
+  "skills":[
+    {
+      "sname":"languages",
+      "sdata":["c","c++","java"]
+    },
+    {
+      "sname":"DataBases",
+      "sdata":["Oracle","MySql","Mysqlite","PDO"]
+    },
+
+    {
+      "sname":"web technologies",
+      "sdata":["HTML","XML","CSS","PHP"]
+    },
+    {
+      "sname":"OPERATING SYSTEM",
+      "sdata":["windows","linux","unix"]
+    }
+
+    ]
+    }
